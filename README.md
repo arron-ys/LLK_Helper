@@ -61,6 +61,18 @@
 存储位置：
 小球识别时的颜色参照模板存储在：Python代码当前所在的目录的Template文件夹下，目录结构如下：
 连连看/
+```text
+.
+├─ match_overlay_v11.py
+├─ templates/
+│  ├─ red.png
+│  ├─ blue.png
+│  ├─ green.png
+│  ├─ yellow.png
+│  ├─ purple.png
+│  ├─ brown.png
+│  └─ skull.png
+└─ match_overlay_config.json
  ├── match_overlay_v11.py
  ├── templates/
  │    ├── red.png
@@ -71,7 +83,7 @@
  │    ├── brown.png
  │    └── skull.png
  └── match_overlay_config.json
-
+```
 4.2 消除判定规则
 系统支持以下可消除组合类型：
 1. 横向或纵向连续 ≥3 个相同颜色的格子。
