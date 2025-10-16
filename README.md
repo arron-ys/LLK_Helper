@@ -73,16 +73,6 @@
 │  ├─ brown.png
 │  └─ skull.png
 └─ match_overlay_config.json
- ├── match_overlay_v11.py
- ├── templates/
- │    ├── red.png
- │    ├── blue.png
- │    ├── green.png
- │    ├── yellow.png
- │    ├── purple.png
- │    ├── brown.png
- │    └── skull.png
- └── match_overlay_config.json
 ```
 4.2 消除判定规则
 系统支持以下可消除组合类型：
