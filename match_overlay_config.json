@@ -1,0 +1,14 @@
+{
+  "roi_x": 494,
+  "roi_y": 100,
+  "priority_cn": [
+    "棕色",
+    "紫色",
+    "绿色",
+    "黄色",
+    "红色",
+    "蓝色"
+  ],
+  "show_color_overlay": true,
+  "debug_enabled": true
+}
