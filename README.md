@@ -3,7 +3,8 @@
 > 基于 Python + OpenCV + PyQt5 + PyAutoGUI 的智能连连看自动提示工具。
 
 ## 📖 项目概述
-本项目《连连看助手》是一款基于图像识别与视觉叠加技术的智能辅助工具，通过实时分析游戏棋盘画面，自动计算并可视化展示下一步最佳消除提示线。本程序采用 Python 编写，核心组件包括 OpenCV、PyQt5、PyAutoGUI、NumPy 等。所有图像识别与匹配都完全由 OpenCV + PyQt5 + PyAutoGUI 实现
+本项目《连连看助手》是一款基于图像识别与视觉叠加技术的智能辅助工具，通过实时分析游戏（Gems of War）棋盘画面，自动计算并可视化展示下一步最佳消除提示线。本程序采用 Python 编写，核心组件包括 OpenCV、PyQt5、PyAutoGUI、NumPy 等。
+因为本项目使用的图像识别模板取之于Gems of War本身，所以本连连看助手只能用于该游戏，该游戏可在Steam等平台中找到
 
 ---
 
